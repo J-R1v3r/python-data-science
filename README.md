@@ -85,23 +85,23 @@ El proyecto se compone de un único archivo Jupyter Notebook:
 
 **Gráfico de Ingresos por Tienda:**
 
-![Gráfico de Ingresos por Tienda](assets/Ingresos por Tienda.png)
+![Gráfico de Ingresos por Tienda](https://github.com/J-R1v3r/python-data-science/blob/main/assets/Ingresos%20por%20Tienda.png?raw=true)
 
 Este gráfico muestra que la Tienda 1 tiene los ingresos más altos, mientras que la Tienda 4 tiene los ingresos más bajos.
 
 **Gráfico de Comparativa de Productos Vendidos por Categoría entre Tiendas:**
 
-![Gráfico de Comparativa de Productos Vendidos por Categoría entre Tiendas](assets/Comparativa Productos Vendidos por Categoría.png)
+![Gráfico de Comparativa de Productos Vendidos por Categoría entre Tiendas](https://github.com/J-R1v3r/python-data-science/blob/main/assets/Comparativa%20Productos%20Vendidos%20por%20Categor%C3%ADa.png?raw=true)
 
 Este gráfico muestra la cantidad de productos vendidos por categoría en cada tienda, identificando las categorías más populares.
 
 **Gráfico de Comparativa de Precio Promedio por Categoría entre Tiendas:**
 
-![Gráfico de Comparativa de Precio Promedio por Categoría entre Tiendas](assets/Comparativa Precio Promedio por Categoría.png)
+![Gráfico de Comparativa de Precio Promedio por Categoría entre Tiendas](https://github.com/J-R1v3r/python-data-science/blob/main/assets/Comparativa%20Precio%20Promedio%20por%20Categor%C3%ADa.png?raw=true)
 
 **Correlación entre Precio y Costo de Envío por Tienda:** 
 
-![Correlación entre Precio y Costo de Envío por Tienda](assets/Correlacion Precio Costo de Envío.png)
+![Correlación entre Precio y Costo de Envío por Tienda](https://github.com/J-R1v3r/python-data-science/blob/main/assets/Correlacion%20Precio%20Costo%20de%20Env%C3%ADo.png?raw=true)
 
 Este gráfico muestra la correlación que hay entre el precio total y el costo de envío total para cada tienda.
 
